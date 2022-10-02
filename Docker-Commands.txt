@@ -31,3 +31,5 @@ $docker rmi -f (The -f flag allows you to forcefully remove an image without hav
 $ocker logs & Docker exec (Are both used for debugging purposes)
 
 $docker build -t "directoryname" (Allows you to build a new image from a Parent image)
+$docker-Compose -f "filename"(includesmy different containers) up(To start multiple services)
+$docker-compose -f "filename" down (This command stops the running containers)
