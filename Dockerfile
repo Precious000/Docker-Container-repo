@@ -13,7 +13,6 @@ Run pip install --no-cache-dir -r requirements.txt
 Copy . .
 #Copies all apps to the working directory
 
-
 CMD [ "python", "server.py"] 
 #This tells Docker what Container to run allowing it to spin  up the application inside the container
 
