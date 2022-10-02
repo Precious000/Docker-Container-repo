@@ -5,8 +5,6 @@ This repo will contain all my learnings on Docker such as;
 
 *Creating a Docker Image
 
-*Running multiple services using Docker-Compose
-
 *Docker Volumes
 
 *Docker Private repo
