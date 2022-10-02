@@ -9,4 +9,4 @@ This repo will contain all my learnings on Docker such as;
 
 *Docker Private repo
 
-*Mongonetworkk(Connecting a MongDB with Mongo-Express
+*Mongonetwork(Connecting a MongDB with Mongo-Express
