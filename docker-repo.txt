@@ -1,0 +1,8 @@
+#Requirements to create a private repo using Aws ECR
+
+# You'll need an account in Aws, serach ECR which is an elastic container registry that is used to save or store our docker containers/images
+#First configure your Aws CLI which which allows you to log into aws CLI in order to be able to push your container there
+
+# go over to Aws to create a private container registry 
+
+# click the just created Container and select the view push command button which allows you to input your desired container name from which you'll get the url that'll be used to deploy your Container application to your private repo in Aws
